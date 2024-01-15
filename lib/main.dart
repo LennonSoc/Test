@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/CounterBloc/counter_bloc_page.dart';
-import 'package:flutter_application_1/CounterCubit/counter_cubit.dart';
-import 'package:flutter_application_1/CounterCubit/counter_page.dart';
 
-import 'package:flutter_bloc/flutter_bloc.dart';
 void main() {
   runApp(const MyApp());
 }
