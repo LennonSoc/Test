@@ -14,7 +14,7 @@ class _NewsPageState extends State<NewsPage> {
       color: Colors.red,
       height: 100,
       width: 200,
-      child: Container(),
+      child: Container(color: Colors.black12,),
     );
   }
 }
