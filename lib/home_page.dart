@@ -10,6 +10,6 @@ class HomePagState extends StatefulWidget {
 class _HomePagStateState extends State<HomePagState> {
   @override
   Widget build(BuildContext context) {
-    return  Placeholder();
+    return  const Placeholder();
   }
 }
