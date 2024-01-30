@@ -10,6 +10,8 @@ class AccountPagState extends StatefulWidget {
 class _AccountPagStateState extends State<AccountPagState> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return  Container(
+      color: Colors.black,
+    );
   }
 }
