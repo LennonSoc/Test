@@ -12,6 +12,7 @@ class _AccountPagStateState extends State<AccountPagState> {
   Widget build(BuildContext context) {
     return  Container(
       color: Colors.white,
+      child: Container(),
     );
   }
 }
