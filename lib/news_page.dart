@@ -10,6 +10,10 @@ class NewsPage extends StatefulWidget {
 class _NewsPageState extends State<NewsPage> {
   @override
   Widget build(BuildContext context) {
-    return  const Placeholder();
+    return  Container(
+      color: Colors.red,
+      height: 100,
+      width: 100,
+    );
   }
 }
